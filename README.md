@@ -16,6 +16,7 @@ A code sample of the orbital and attitude propagator is included in the reposito
 # Animation
 
 The animation of the simulation is available in the following link: https://drive.google.com/file/d/1Pn7tv1U42O4RAZraI5wqekroBN6khlJC/view?usp=sharing
+
 The animation demonstrates the satellite switching between the three attitude modes during a simulated Mars orbit, showing how the control law stabilizes the satellite while maintaining the mission objectives.
 
 # Plots of the Parameters
