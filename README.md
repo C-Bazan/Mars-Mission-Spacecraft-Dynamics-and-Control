@@ -11,7 +11,7 @@ This project is about the simulation of a Mars Mission that consists of the atti
 
 # Code Sample
 
-A code sample of the orbital and attitude propagator is included in the repository. The code sample shows the core logic of the orbital and attitude propagator, including the switching between Power, Science, and Communication modes, and the integration of attitude dynamics using a Runge-Kutta method.
+A code sample of the orbital and attitude propagator is included in the repository. The code sample shows the core logic of the orbital and attitude propagator, including the switching between Power, Science, and Communication modes, and the integration of attitude dynamics using a Runge-Kutta method. This code sample was written in Python language.
 
 # Animation
 
