@@ -97,7 +97,7 @@ for t in time_vector:
 # Runge Kutta 4-th order integrator
 
     # Update the control action every second
-    if t % 1 == 0:
+    if abs((t % 1.0)) < 1e-6:
         # Calculate the control action according to the errors calculated previously
         # and the control gains K and P
         u = control(K, P, MRP_err, w_err)
@@ -123,4 +123,5 @@ for t in time_vector:
         MRP = mrp_shadow(MRP)
     DCM_BN = mrp_to_dcm(MRP)
     
+
    
