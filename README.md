@@ -1,4 +1,7 @@
 # Mars-Mission-Spacecraft-Dynamics-and-Control
+
+Author: Carlos Eduardo Bazán Bravo.
+
 Capstone project for the Spacecraft Dynamics and Control Specialization offered by the University of Boulder, Colorado via Coursera
 
 This project is about the simulation of a Mars Mission that consists of the attitude dynamics and control of a nano-satellite orbiting around Mars in Low Orbit. The mission consists of controlling the attitude of the spacecraft with a proportional derivative controller in 3 scenarios: 
